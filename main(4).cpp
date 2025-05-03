@@ -1,7 +1,7 @@
 #include <iostream>
 
 using namespace std;
-
+//جمع سطر مانریس
 void sumRows(int matrix[][3], int rows, int sums[]) {
     for (int i = 0; i < rows; ++i) {
         int sum = 0;
